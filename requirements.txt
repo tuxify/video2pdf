@@ -1,3 +1,11 @@
-imutils==0.5.4
-opencv_python==4.5.2.52
-img2pdf==0.4.1
+click
+img2pdf
+imutils
+lxml
+numpy
+opencv-python
+opencv-python-headless
+packaging
+pikepdf
+Pillow
+pyparsing
