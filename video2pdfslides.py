@@ -149,7 +149,7 @@ if __name__ == "__main__":
 
     print('Please Manually verify screenshots and delete duplicates')
     while True:
-        choice = input("Press y to continue and n to terminate")
+        choice = input("Press y to continue and n to terminate: ")
         choice = choice.lower().strip()
         if choice in ['y', 'n']:
             break
